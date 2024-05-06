@@ -1,5 +1,4 @@
 # final_cuidandonos
------------------------------------
-Participantes:
+# Participantes:
 - Camila Lazzati
 - Juan Pablo Galgano
